@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aqCH5dn9Nol/QAYcZXiOyMdnN8htjEEftuO82ArsY1I=",
+  "Source": "AuthenticationWebApi",
+  "BasePath": "_content/AuthenticationWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

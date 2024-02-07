@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "2R4S1wcH6oTAifgjXSVEjS6olWqb2i46/lJqJIr5OGSxrbKyDJ/pxTxC3m8Yw3dG0tzEJO8kWmbmoWexkf1rGA==",
+  "success": true,
+  "projectFilePath": "D:\\MinThantAungAung\\Projects\\QAL Digitalization\\ocelotauthtokenreference\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.5\\microsoft.aspnetcore.jsonpatch.7.0.5.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\7.0.5\\microsoft.aspnetcore.middlewareanalysis.7.0.5.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.5.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\ocelot\\20.0.0\\ocelot.20.0.0.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

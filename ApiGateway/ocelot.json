@@ -1,0 +1,37 @@
+{
+  "Routes": [
+    // Auth API Apigee
+    {
+      "UpstreamPathTemplate": "/central-auth/v1/login",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-internal-uat.kbzbank.com",
+          "Port": 9002
+        }
+      ],
+      "DownstreamPathTemplate": "/central-auth/v1/api/auth/login"      
+    },
+    // Authentication Web API
+    {
+      "UpstreamPathTemplate": "/api/Account",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8080
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Account"
+    }
+  ],
+  "GlobalConfiguration": {    
+    "BaseUrl": "http://localhost:8005",
+    "RateLimitOptions": {
+      "QuotaExceededMessage": "Request not allowed",
+      "HttpStatusCode": 909
+    }
+  }
+}

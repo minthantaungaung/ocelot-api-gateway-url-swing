@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAXI6qorEKC5JfQsl+jPO9e1b2/Mie4aGeWZC+Y9Ve60IghkEf6bNoeDyVgWDOUU2tj/jvP1crIQTvn2hQl6gQ==",
+  "success": true,
+  "projectFilePath": "D:\\MinThantAungAung\\Projects\\QAL Digitalization\\ocelotauthtokenreference\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.12\\microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\minthant.aungaung\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.2\\system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
